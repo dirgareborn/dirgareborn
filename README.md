@@ -312,58 +312,7 @@ _注意：热门语言并不表示我的技能水平或类似的水平，它是�
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-```
 
-## 自己部署
-
-#### [Check Out Step By Step Video Tutorial By @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
-
-因为 GitHub 的 API 每个小时只允许 5 千次请求，我的 `https://github-readme-stats.vercel.app/api` 很有可能会触发限制。如果你将其托管在自己的 Vercel 服务器上，那么你就不必为此担心。点击 deploy 按钮来开始你的部署！
-
-注意: 从 [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) 开始，我们应该能够处理超过 5 千次的请求，并且不会出现宕机问题 :D
-
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
-
-<details>
- <summary>设置 Vercel 的指导</summary>
-
-1. 前往 [vercel.com](https://vercel.com/)
-1. 点击 `Log in`
-   ![](https://files.catbox.moe/tct1wg.png)
-1. 点击 `Continue with GitHub` 通过 GitHub 进行登录
-   ![](https://files.catbox.moe/btd78j.jpeg)
-1. 登录 GitHub 并允许访问所有存储库（如果系统这样提示）
-1. Fork 这个仓库
-1. 返回到你的 [Vercel dashboard](https://vercel.com/dashboard)
-1. 选择 `Import Project`
-   ![](https://files.catbox.moe/qckos0.png)
-1. 选择 `Import Git Repository`
-   ![](https://files.catbox.moe/pqub9q.png)
-1. 选择 root 并将所有内容保持不变，并且只需添加名为 PAT_1 的环境变量（如图所示），其中将包含一个个人访问令牌（PAT），你可以在[这里](https://github.com/settings/tokens/new)轻松创建（保留默认，并且只需要命名下，名字随便）
-   ![](https://files.catbox.moe/caem5b.png)
-1. 点击 deploy，这就完成了，查看你的域名就可使用 API 了！
-
-</details>
-
-## :sparkling_heart: 支持这个项目
-
-我尽己所能地进行开源，并且我尽量回复每个在使用项目时需要帮助的人。很明显，这需要时间，但你可以免费享受这些。
-
-然而, 如果你正在使用这个项目并感觉良好，或只是想要支持我继续开发，你可以通过如下方式：
-
-- 在你的 readme 中使用 github-readme-stats 时，链接指向这里 :D
-- Star 并 分享这个项目 :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - 你可以通过 PayPal 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶. :tea:
-
-谢谢！ :heart:
-
----
-
-[![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
-
-欢迎贡献！ <3
-
-用 :heart: 发电，用 JavaScript 制作。
+`onedark` ![onedark][onedark] | `cobalt` ![cobalt][cobalt] | `synthwave` ![synthwave][synthwave] |
+ :heart: 。
 
