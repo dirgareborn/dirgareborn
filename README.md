@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
   <p align="center">
     <a href="https://github.com/dirgareborn/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/dirgareborn/github-readme-stats/workflows/Test/badge.svg" />
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://codecov.io/gh/dirgareborn/github-readme-stats">
       <img src="https://codecov.io/gh/dirgareborn/github-readme-stats/branch/master/graph/badge.svg" />
@@ -44,6 +44,5 @@ Here are some ideas to get you started:
   </p>
 
  
-`onedark` ![onedark][onedark] | `cobalt` ![cobalt][cobalt] | `synthwave` ![synthwave][synthwave] |
- :heart: 。
+ :heart: Ｎｏｔｈｉｎｇ
 
