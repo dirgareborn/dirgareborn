@@ -17,21 +17,21 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
+ <h2 align="center">G A A 1 9 X X</h2>
+ <p align="center">A B C O D E！</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/dirgareborn/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/dirgareborn/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/dirgareborn/github-readme-stats">
+      <img src="https://codecov.io/gh/dirgareborn/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/dirgareborn/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/dirgareborn/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/dirgareborn/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dirgareborn/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -43,19 +43,7 @@ Here are some ideas to get you started:
     </a>
   </p>
 
-  
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirgareborn&hide=javascript,html)](https://github.com/dirgareborn/github-readme-stats)
-```
-
-### 紧凑的语言卡片布局
-
-你可以使用 `&layout=compact` 参数来改变卡片的样式。
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-```
-
+ 
 `onedark` ![onedark][onedark] | `cobalt` ![cobalt][cobalt] | `synthwave` ![synthwave][synthwave] |
  :heart: 。
 
